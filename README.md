@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 26, 2018
 
 ### Student Name:  
-(First and Last Name)
+Fabuola Pierre
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create and display a photo gallery using javascript to allow the user to navigate through the images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://fabuolap.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Access elements using Tag, ID, or Class name
+2. Adding and removing document nodes 
+3. Access element content, CSS properties, and attributes
 
